@@ -8,8 +8,6 @@ const StyledMain = styled.main`
     flex-direction:column;
     margin:auto;
     padding:10px;
-        
-    }
 `
 
 const StyledSpanBold = styled.span`
